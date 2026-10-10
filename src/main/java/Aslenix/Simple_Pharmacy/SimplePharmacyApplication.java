@@ -1,4 +1,4 @@
-package Aslenix.Simple.Pharmacy;
+package Aslenix.Simple_Pharmacy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
